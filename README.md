@@ -1,1 +1,1 @@
-# MineCoreLauncher
+# MineCore Launcher
